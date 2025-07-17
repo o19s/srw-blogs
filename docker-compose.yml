@@ -1,0 +1,45 @@
+services:
+  opensearch-search-relevance:
+    image: opensearchstaging/opensearch:3.2.0
+    container_name: opensearch-search-relevance
+    environment:
+      discovery.type: single-node
+      node.name: opensearch-search-relevance
+      cluster.name: opensearch-search-relevance
+      bootstrap.memory_lock: true
+      DISABLE_INSTALL_DEMO_CONFIG: true
+      DISABLE_SECURITY_PLUGIN: true # disable security plugin only for demo
+      OPENSEARCH_JAVA_OPTS: "-Xms1g -Xmx4g"
+
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 65536
+        hard: 65536
+    ports:
+      - 9200:9200
+      - 9600:9600 # required for Performance Analyzer
+    volumes:
+      - opensearch-data:/usr/share/opensearch/data
+    networks:
+      - opensearch-net
+
+  opensearch-dashboards-search-relevance:
+    build: ./opensearch-dashboards/.
+    container_name: opensearch-dashboards-search-relevance
+    ports:
+      - 5601:5601
+    expose:
+      - "5601"
+    environment:
+      OPENSEARCH_HOSTS: '["http://opensearch-search-relevance:9200"]' # Define the OpenSearch nodes that OpenSearch Dashboards will query
+    networks:
+      - opensearch-net
+
+volumes:
+  opensearch-data:
+
+networks:
+  opensearch-net:

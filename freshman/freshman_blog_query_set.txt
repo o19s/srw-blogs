@@ -1,0 +1,6 @@
+{"queryText": "laptop"}
+{"queryText": "red shoes"}
+{"queryText": "in-ear headphones"}
+{"queryText": "portable bluetooth speakers"}
+{"queryText": "stainless steel mending plates"}
+{"queryText": "funny shirt birthday present"}
