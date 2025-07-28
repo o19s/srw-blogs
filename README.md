@@ -29,14 +29,14 @@ cd srw-blogs
 docker compose up -d
 ```
 
-## The Freshman
+## Part 1 - Taking your first steps towards search relevance
 
 Link to blog post: tbd
 
-## The Traveller
+## Part 2 - Measuring and improving search quality metrics
 
 Link to blog post: tbd
 
-## The Power User
+## Part 3 -Advanced experimentation and continuous improvement
 
 Link to blog post: tbd
