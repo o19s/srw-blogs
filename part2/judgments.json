@@ -1,365 +1,365 @@
 {
-    "name": "Traveller Judgments",
-    "description": "Imported judgment list for The Traveller blog post",
-    "type": "IMPORT_JUDGMENT",
-    "judgmentRatings": [
+  "name": "SRW Blog Post Judgments",
+  "description": "Imported judgment list for the SRW blog post",
+  "type": "IMPORT_JUDGMENT",
+  "judgmentRatings": [
+    {
+      "query": "funny shirt birthday present",
+      "ratings": [
         {
-            "query": "funny shirt birthday present",
-            "ratings": [
-                {
-                    "docId": "B07PH417T1",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08ZM5VN5S",
-                    "rating": "0.000"
-                },
-                {
-                    "docId": "B07WX1YMZD",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B088GW222Z",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B00XD06M6K",
-                    "rating": "1.000"
-                },
-                {
-                    "docId": "B00XD06PMG",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B00OSRS4PY",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B00QSN2A9W",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B00XCZSP0C",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B017MY5R8G",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B07N517JD9",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B07P2V51TJ",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07KWLHSN3",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B07PJ7XN3T",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B07WQR45JT",
-                    "rating": "3.000"
-                }
-            ]
+          "docId": "B07PH417T1",
+          "rating": "3.000"
         },
         {
-            "query": "in-ear headphones",
-            "ratings": [
-                {
-                    "docId": "B00HVLUR86",
-                    "rating": "0.000"
-                },
-                {
-                    "docId": "B0011UB9CQ",
-                    "rating": "0.000"
-                },
-                {
-                    "docId": "B07M6RVR1Y",
-                    "rating": "1.000"
-                },
-                {
-                    "docId": "B01N3CYD5Y",
-                    "rating": "1.000"
-                },
-                {
-                    "docId": "B002M966FA",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B003EM8008",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07K7W79B2",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B06WVKHVYX",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B06X1D3F8B",
-                    "rating": "1.000"
-                },
-                {
-                    "docId": "B07MJ9759S",
-                    "rating": "1.000"
-                },
-                {
-                    "docId": "B076MHX9YR",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B018FD9VH6",
-                    "rating": "3.000"
-                }
-            ]
+          "docId": "B08ZM5VN5S",
+          "rating": "0.000"
         },
         {
-            "query": "laptop",
-            "ratings": [
-                {
-                    "docId": "B08DFNTXLZ",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B08JM7LNZS",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B07SRRZ514",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08RCF62F9",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B07P829HVG",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B077R4JNMT",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B082D74N22",
-                    "rating": "1.000"
-                },
-                {
-                    "docId": "B092VXGYL8",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07DRF982J",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07WTVWXJD",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B07GM2J11Q",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07RWQC4LX",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B084SKWC89",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08TH23KK5",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B0886L3CFV",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07RF1XD36",
-                    "rating": "3.000"
-                }
-            ]
+          "docId": "B07WX1YMZD",
+          "rating": "2.000"
         },
         {
-            "query": "portable bluetooth speakers",
-            "ratings": [
-                {
-                    "docId": "B07N1DPZT8",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B081VMTKXL",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B07HKQ6YGX",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B010OYASRG",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08931B1VR",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08336KZCL",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07WHKZD8Y",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B0744JGZ1T",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07JHFNJDF",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B0187ADA0Q",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B078T943YX",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B01HETFPK4",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B01HETFPTU",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B01LZRFI5C",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B06XCW4VFS",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B01HETFQKS",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07VFKBQ3K",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B01HI0E89S",
-                    "rating": "3.000"
-                }
-            ]
+          "docId": "B088GW222Z",
+          "rating": "2.000"
         },
         {
-            "query": "red shoes",
-            "ratings": [
-                {
-                    "docId": "B07R5DSDCH",
-                    "rating": "0.000"
-                },
-                {
-                    "docId": "B07KWDB6YM",
-                    "rating": "0.000"
-                },
-                {
-                    "docId": "B0863Q4P2P",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B00FEIWVAU",
-                    "rating": "0.000"
-                },
-                {
-                    "docId": "B084D5X36K",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08FWRPQDB",
-                    "rating": "2.000"
-                },
-                {
-                    "docId": "B00N25XEEY",
-                    "rating": "0.000"
-                },
-                {
-                    "docId": "B07FSJBB9S",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07VY9ZC82",
-                    "rating": "1.000"
-                },
-                {
-                    "docId": "B072FKHK39",
-                    "rating": "1.000"
-                }
-            ]
+          "docId": "B00XD06M6K",
+          "rating": "1.000"
         },
         {
-            "query": "stainless steel mending plates",
-            "ratings": [
-                {
-                    "docId": "B081Q1YHCY",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08GPCS3CN",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08GBYJFBW",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B01NATPEM8",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B01HCJWXCY",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B072F6SL2T",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07D8QMLPR",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07KVY3HJP",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B07KVQFBZ5",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B08N6X576D",
-                    "rating": "3.000"
-                },
-                {
-                    "docId": "B00J9Q101E",
-                    "rating": "1.000"
-                }
-            ]
+          "docId": "B00XD06PMG",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B00OSRS4PY",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B00QSN2A9W",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B00XCZSP0C",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B017MY5R8G",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B07N517JD9",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B07P2V51TJ",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07KWLHSN3",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B07PJ7XN3T",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B07WQR45JT",
+          "rating": "3.000"
         }
-    ]
+      ]
+    },
+    {
+      "query": "in-ear headphones",
+      "ratings": [
+        {
+          "docId": "B00HVLUR86",
+          "rating": "0.000"
+        },
+        {
+          "docId": "B0011UB9CQ",
+          "rating": "0.000"
+        },
+        {
+          "docId": "B07M6RVR1Y",
+          "rating": "1.000"
+        },
+        {
+          "docId": "B01N3CYD5Y",
+          "rating": "1.000"
+        },
+        {
+          "docId": "B002M966FA",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B003EM8008",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07K7W79B2",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B06WVKHVYX",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B06X1D3F8B",
+          "rating": "1.000"
+        },
+        {
+          "docId": "B07MJ9759S",
+          "rating": "1.000"
+        },
+        {
+          "docId": "B076MHX9YR",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B018FD9VH6",
+          "rating": "3.000"
+        }
+      ]
+    },
+    {
+      "query": "laptop",
+      "ratings": [
+        {
+          "docId": "B08DFNTXLZ",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B08JM7LNZS",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B07SRRZ514",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B08RCF62F9",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B07P829HVG",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B077R4JNMT",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B082D74N22",
+          "rating": "1.000"
+        },
+        {
+          "docId": "B092VXGYL8",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07DRF982J",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07WTVWXJD",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B07GM2J11Q",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07RWQC4LX",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B084SKWC89",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B08TH23KK5",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B0886L3CFV",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07RF1XD36",
+          "rating": "3.000"
+        }
+      ]
+    },
+    {
+      "query": "portable bluetooth speakers",
+      "ratings": [
+        {
+          "docId": "B07N1DPZT8",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B081VMTKXL",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B07HKQ6YGX",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B010OYASRG",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B08931B1VR",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B08336KZCL",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07WHKZD8Y",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B0744JGZ1T",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07JHFNJDF",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B0187ADA0Q",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B078T943YX",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B01HETFPK4",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B01HETFPTU",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B01LZRFI5C",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B06XCW4VFS",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B01HETFQKS",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07VFKBQ3K",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B01HI0E89S",
+          "rating": "3.000"
+        }
+      ]
+    },
+    {
+      "query": "red shoes",
+      "ratings": [
+        {
+          "docId": "B07R5DSDCH",
+          "rating": "0.000"
+        },
+        {
+          "docId": "B07KWDB6YM",
+          "rating": "0.000"
+        },
+        {
+          "docId": "B0863Q4P2P",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B00FEIWVAU",
+          "rating": "0.000"
+        },
+        {
+          "docId": "B084D5X36K",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B08FWRPQDB",
+          "rating": "2.000"
+        },
+        {
+          "docId": "B00N25XEEY",
+          "rating": "0.000"
+        },
+        {
+          "docId": "B07FSJBB9S",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07VY9ZC82",
+          "rating": "1.000"
+        },
+        {
+          "docId": "B072FKHK39",
+          "rating": "1.000"
+        }
+      ]
+    },
+    {
+      "query": "stainless steel mending plates",
+      "ratings": [
+        {
+          "docId": "B081Q1YHCY",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B08GPCS3CN",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B08GBYJFBW",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B01NATPEM8",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B01HCJWXCY",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B072F6SL2T",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07D8QMLPR",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07KVY3HJP",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B07KVQFBZ5",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B08N6X576D",
+          "rating": "3.000"
+        },
+        {
+          "docId": "B00J9Q101E",
+          "rating": "1.000"
+        }
+      ]
+    }
+  ]
 }

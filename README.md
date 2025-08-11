@@ -1,4 +1,4 @@
-# srw-blogs
+# Search Relevance Workbench Blog Series
 Accompanying repository for the Search Relevance Workbench blog series
 
 ## How to use this repository
