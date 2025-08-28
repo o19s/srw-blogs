@@ -31,7 +31,7 @@ docker compose up -d
 
 ## Part 1 - Taking your first steps towards search relevance
 
-Link to blog post: tbd
+[Taking your first steps towards search relevance](https://opensearch.org/blog/taking-your-first-steps-towards-search-relevance/)
 
 ## Part 2 - Measuring and improving search quality metrics
 
