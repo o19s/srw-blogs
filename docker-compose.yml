@@ -1,6 +1,6 @@
 services:
   opensearch-search-relevance:
-    image: opensearchstaging/opensearch:3.2.0
+    image: opensearchproject/opensearch:3.2.0
     container_name: opensearch-search-relevance
     environment:
       discovery.type: single-node
